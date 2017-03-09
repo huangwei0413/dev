@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sample.wishlistDemo.api.generated.DefaultWishlistsResourceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.395 sec
